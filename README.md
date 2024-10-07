@@ -1,0 +1,1 @@
+This is free version of nitr0 for MCBE
